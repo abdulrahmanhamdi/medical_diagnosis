@@ -62,10 +62,10 @@ streamlit run app.py
 ## 📸 Screenshots
 
 ### 🔍 Disease Prediction
-![Prediction Screenshot](https://user-images.githubusercontent.com/abdulrahmanhamdi/medical_diagnosis/predict.png)
+![Prediction Screenshot](https://github.com/abdulrahmanhamdi/medical_diagnosis/tree/04614f307a5ee5b0d9dc653d063328fc2f80a9d2/img/predict.png)
 
 ### 📊 Confidence Chart
-![Chart Screenshot](https://user-images.githubusercontent.com/abdulrahmanhamdi/medical_diagnosis/chart.png)
+![Chart Screenshot](https://github.com/abdulrahmanhamdi/medical_diagnosis/tree/04614f307a5ee5b0d9dc653d063328fc2f80a9d2/img/chart.png)
 
 ## ✨ Future Enhancements
 
