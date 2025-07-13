@@ -62,10 +62,10 @@ streamlit run app.py
 ## 📸 Screenshots
 
 ### 🔍 Disease Prediction
-![Prediction Screenshot](https://user-images.githubusercontent.com/abdulrahmanhamdi/medical_diagnosis/predict.png)
+![Prediction Screenshot](img/predict.png)
 
 ### 📊 Confidence Chart
-![Chart Screenshot](https://user-images.githubusercontent.com/abdulrahmanhamdi/medical_diagnosis/chart.png)
+![Chart Screenshot](img/chart.png)
 
 ## ✨ Future Enhancements
 
